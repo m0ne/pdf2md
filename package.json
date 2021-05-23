@@ -1,0 +1,22 @@
+{
+  "name": "pdf2md",
+  "version": "1.0.0",
+  "description": "a tool that converts pdf to markdown",
+  "main": "./lib/pdf2md.js",
+  "bin": {
+    "pdf2md": "./bin/index.js"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m0ne/pdf2md.git"
+  },
+  "author": "m0ne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/m0ne/pdf2md/issues"
+  },
+  "homepage": "https://github.com/m0ne/pdf2md#readme",
+  "devDependencies": {},
+  "dependencies": {}
+}
