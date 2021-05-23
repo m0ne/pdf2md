@@ -1,6 +1,6 @@
 {
   "name": "pdf2md",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a tool that converts pdf to markdown",
   "main": "./lib/pdf2md.js",
   "bin": {
