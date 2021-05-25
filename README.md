@@ -72,7 +72,7 @@ It creates the following folder structure:
     [projectName-02.png]
     ...
   [src]
-    [projectName.md]
+    [projectName.pdf]
   [projectName.md]
 ```
 
