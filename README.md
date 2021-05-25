@@ -84,6 +84,8 @@ If you find a bug or want to add a feature, feel free to create an issue or crea
 
 * **[m0ne](https://github.com/m0ne)** - *Initial work*
 
+<a href="https://www.buymeacoffee.com/m0ne" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
